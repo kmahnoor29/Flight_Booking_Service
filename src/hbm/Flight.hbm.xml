@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+    <class name="Pojo.Flight" table="flight_details">
+        <id  name="id" type="java.lang.Integer" ></id>
+        <property column="flight_no" name="Flight_no" type="java.lang.String" />
+        <property column="flight_name" name="Flight_name" type="java.lang.String" />
+        <property column="dep_from" name="Dep_from" type="java.lang.String" />
+        <property column="arr_at" name="Arr_at" type="java.lang.String" />
+        <property column="dep_time" name="Dep_time" type="java.lang.String" />
+        <property column="arr_time" name="Arr_time" type="java.lang.String" />
+        <property column="date" name="date" type="java.lang.String" />
+        <property column="total_seats" name="Total_seats" type="java.lang.Integer" />
+        <property column="ticket_price" name="Ticket_price" type="java.lang.Integer" />
+        <property column="booking_status" name="Booking_status" type="java.lang.String" />
+        <property column="flight_type" name="Flight_type" type="java.lang.String" />
+        <property column="airport_name" name="Airport_name" type="java.lang.String" />
+        <property column="airport_email" name="Airport_email" type="java.lang.String" />
+        <property column="airport_no" name="Airport_no" type="java.lang.String" />
+
+    </class>
+</hibernate-mapping>

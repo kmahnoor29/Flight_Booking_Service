@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<booking>
+    <flight_details_id>9</flight_details_id>
+    <fullname>Alex Rayn</fullname>
+    <bphone>9875897</bphone>
+    <bmobile>6546457</bmobile>
+    <bookseats>1</bookseats>
+</booking>

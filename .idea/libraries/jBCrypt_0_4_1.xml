@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="jBCrypt-0.4.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../jBCrypt-0.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../json-20190722.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../bytes-0.4.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../bcrypt-0.4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src" />
+    </SOURCES>
+  </library>
+</component>

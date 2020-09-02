@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<flight>
+    <id>0</id>
+    <Flight_no>763</Flight_no>
+    <Flight_name>Air Blue Economy</Flight_name>
+    <Dep_from>Lahore</Dep_from>
+    <Arr_at>Toronto</Arr_at>
+    <Dep_time>12:00 am</Dep_time>
+    <Arr_time>12:00 pm</Arr_time>
+    <date>8/28/2020</date>
+    <Total_seats>3</Total_seats>
+    <Ticket_price>50000</Ticket_price>
+    <Booking_status>ONGOING</Booking_status>
+    <Flight_type>Business</Flight_type>
+    <Airport_name>Air Blue</Airport_name>
+    <Airport_email>airblue@airblue.com</Airport_email>
+    <Airport_no>75757</Airport_no>
+</flight>
